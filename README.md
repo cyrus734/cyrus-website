@@ -1,2 +1,1 @@
-# cyrus-website
-careers
+
